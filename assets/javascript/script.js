@@ -1,7 +1,7 @@
 function techPhrases() {
     var phrases1 = ["amazing", "awesome", "brilliant", "exciting", "fantastic", "innovative", "inspiring", "mind-blowing", "revolutionary", "sensational", "spectacular", "stunning", "terrific", "unbelievable", "unforgettable", "unreal"];
     var phrases2 = ["member of this team", "collaborator", "contributor", "employee", "team player"];
-    var phrases3 = ["excels", "handles", "manages", "performs"];
+    var phrases3 = ["excels", "adapts", "manages", "performs"];
     var phrases4 = ["excellently", "exceptionally", "extraordinarily", "fantastically", "flawlessly", "impeccably", "incredibly", "magnificently", "outstandingly", "perfectly", "remarkably", "splendidly", "superbly", "supremely", "wonderfully"];
     var phrases5 = ["valued", "respected", "trusted", "appreciated", "admired", "recognized", "acknowledged", "celebrated", "applauded", "commended", "praised", "applauded", "lauded", "esteemed", "honored", "revered", "venerated", "cherished", "treasured"];
     var phrases6 = ["mighty", "powerful", "strong", "potent", "forceful", "vigorous", "robust", "sturdy", "stalwart", "tough", "tireless", "unstoppable", "unyielding", "unwavering", "unshakeable", "unbreakable", "unbeatable", "invincible", "indomitable", "formidable", "fearsome", "dauntless", "intrepid", "valiant", "heroic", "bold", "brave", "courageous", "gallant", "daring", "undaunted", "unflinching", "unafraid", "unfazed", "unperturbed", "unruffled","unflappable", "unshaken"];
